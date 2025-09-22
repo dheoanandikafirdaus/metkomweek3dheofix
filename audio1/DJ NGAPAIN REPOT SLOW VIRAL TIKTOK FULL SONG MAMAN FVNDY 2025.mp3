@@ -1,0 +1,12 @@
+import pygame
+
+# Inisialisasi mixer
+pygame.mixer.init()
+
+# Load file mp3
+pygame.mixer.music.load("audio1/DJ NGAPAIN REPOT SLOW VIRAL TIKTOK FULL SONG MAMAN FVNDY 2025.mp3")
+
+# Play musik
+pygame.mixer.music.play()
+
+input("Tekan Enter untuk berhenti...")
