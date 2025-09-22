@@ -15,3 +15,6 @@ ini muncul gif ga ya?
 
 lagu yang nemenin aku ngelaprak sekarang:
 ([ini ya lagunya DJ guyss seruu](https://open.spotify.com/intl-id/track/7KCKOvXWgy38wRW76ekqsv?si=c52f5da499de4e6e))
+kalo make file gimana? 
+🎵 [Putar Musik](audio1/DJ%20NGAPAIN%20REPOT%20SLOW%20VIRAL%20TIKTOK%20FULL%20SONG%20MAMAN%20FVNDY%202025.mp3)
+
