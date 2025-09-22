@@ -30,8 +30,9 @@ habis itu:
 
 (base) C:\Users\FLEX\Prak. Metkom 2025\metkomweek3dheofix>git init
 Reinitialized existing Git repository in C:/Users/FLEX/Prak. Metkom 2025/metkomweek3dheofix/.git/
-kalo udah disave ajaa, terus:
+kalo udah **WAJIB disave ajaa**, terus:
 1. git add .
 2. git commit -m "..."
 3. git push
 4. buka lagi GitHub terus reload, udah deh...
+wahh ternyata work yak guysss keren jugaaa hehe maklum perintizzzz bukan pewarizz
