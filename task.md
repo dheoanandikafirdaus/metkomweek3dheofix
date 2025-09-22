@@ -36,3 +36,7 @@ kalo udah **WAJIB disave ajaa**, terus:
 3. git push
 4. buka lagi GitHub terus reload, udah deh...
 wahh ternyata work yak guysss keren jugaaa hehe maklum perintizzzz bukan pewarizz
+
+Fitur yang baru dicoba:
+1. ![update profile](image-2.png)
+2. ![coba teks unik, add musik, add image](image-3.png)
